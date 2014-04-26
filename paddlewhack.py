@@ -2,7 +2,7 @@ from tkinter import *
 import time
 import random
 
-
+#python is a snake
 # define the Ball
 class Ball:
     def __init__(self, canvas, paddle, color):    # need to draw on a canvas, and in a given colour
